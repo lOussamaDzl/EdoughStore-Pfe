@@ -1,0 +1,71 @@
+[
+  {
+    "_id": {
+      "$oid": "6622ab0f85666a2ffb16ebaf"
+    },
+    "name": "Cylindric Gas Tank Atiker",
+    "image": "/uploads\\image-1713686060924.jpg",
+    "brand": "ATIKER",
+    "quantity": 10,
+    "category": {
+      "$oid": "662409bc3567483a4650d2cf"
+    },
+    "description": "Cylindric car gas tank 48L Atiker.",
+    "rating": 0,
+    "numReviews": 1,
+    "price": 48500,
+    "countInStock": 20,
+    "reviews": [
+      {
+        "name": "oussama",
+        "rating": 0,
+        "comment": "great",
+        "user": {
+          "$oid": "65fd7139a8732d61595b6a47"
+        },
+        "_id": {
+          "$oid": "6622d6a1dfc319c0de772a05"
+        },
+        "createdAt": {
+          "$date": "2024-04-19T20:40:01.495Z"
+        },
+        "updatedAt": {
+          "$date": "2024-04-19T20:40:01.495Z"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2024-04-19T17:34:07.968Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-21T07:55:29.370Z"
+    },
+    "__v": 1
+  },
+
+  {
+    "_id": {
+      "$oid": "66240b5b3567483a4650d30f"
+    },
+    "name": "Liquid phase filler filter",
+    "image": "/uploads\\image-1713638186735.jpg",
+    "brand": "CERTOOLS",
+    "quantity": 20,
+    "category": {
+      "$oid": "66240a073567483a4650d2dd"
+    },
+    "description": "Liquid phase filler filter (ceramic, W21,8 DISH) - CERTOOLS - F-704",
+    "rating": 0,
+    "numReviews": 0,
+    "price": 2000,
+    "countInStock": 30,
+    "reviews": [],
+    "createdAt": {
+      "$date": "2024-04-20T18:37:15.371Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-20T18:37:15.371Z"
+    },
+    "__v": 0
+  }
+]
